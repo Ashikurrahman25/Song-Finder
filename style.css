@@ -16,6 +16,10 @@ body{
 .btn{
     border-radius: 1.5rem;
     padding: 9px 20px;
+    border: none;
+    background-image: linear-gradient( 100deg,#802cd7,#ff22f2);
+    outline: #ff22f2;
+    color: white;
 }
 
 .btn-privious{
